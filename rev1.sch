@@ -7776,7 +7776,6 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <pinref part="GND1" gate="1" pin="GND"/>
 <pinref part="TP3" gate="G$1" pin="TP"/>
 <junction x="45.72" y="63.5"/>
-<pinref part="TP3" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <pinref part="GND2" gate="1" pin="GND"/>
